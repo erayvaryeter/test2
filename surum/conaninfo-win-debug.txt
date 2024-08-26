@@ -7,8 +7,8 @@
     os=Windows
 
 [requires]
-    catch2/1.0.0@test2/stable
-    cxxopts/1.0.0@test2/stable
-    opencv/1.0.0@test2/stable
-    spdlog/1.0.0@test2/stable
-    zxing-cpp/1.0.0@test2/stable
+    catch2/2.0.0@test2/stable
+    cxxopts/2.0.0@test2/stable
+    opencv/2.0.0@test2/stable
+    spdlog/2.0.0@test2/stable
+    zxing-cpp/2.0.0@test2/stable
