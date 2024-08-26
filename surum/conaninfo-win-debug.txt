@@ -1,0 +1,14 @@
+[settings]
+    arch=x86_64
+    build_type=Debug
+    compiler=Visual Studio
+    compiler.runtime=MDd
+    compiler.version=16
+    os=Windows
+
+[requires]
+    catch2/1.0.0@test2/stable
+    cxxopts/1.0.0@test2/stable
+    opencv/1.0.0@test2/stable
+    spdlog/1.0.0@test2/stable
+    zxing-cpp/1.0.0@test2/stable
